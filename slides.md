@@ -3,7 +3,6 @@ title: 伊斯兰黄金时代数学和科学成就 Mathematical and Scientific Ac
 info: |
   伊斯兰黄金时代数学和科学成就  
   Mathematical and Scientific Achievements in the Islamic Golden Age
-  <br>
 
   Original Content: <https://szxzip.org/2025/04/10/mathematical-and-scientific-achievements-in-the-islamic-golden-age/>
   
