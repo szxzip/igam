@@ -1,6 +1,6 @@
 ## Powered by Slidev
 
-Original Content: <https://szxzip.org/2025/04/03/mathematical-and-scientific-achievements-in-the-islamic-golden-age/>
+Original Content: <https://szxzip.org/2025/04/10/mathematical-and-scientific-achievements-in-the-islamic-golden-age/>
 
 > 献给我尊敬的张枭行，尽管我（们）的工作不及他的十分之一。
 
