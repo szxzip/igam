@@ -5,7 +5,7 @@ info: |
   Mathematical and Scientific Achievements in the Islamic Golden Age
   <br>
 
-  Original Content: <https://szxzip.org/2025/04/03/mathematical-and-scientific-achievements-in-the-islamic-golden-age/>
+  Original Content: <https://szxzip.org/2025/04/10/mathematical-and-scientific-achievements-in-the-islamic-golden-age/>
   
   \* This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 mdc: true
