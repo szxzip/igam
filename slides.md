@@ -160,7 +160,7 @@ transition: fade
 1. **《Al-Jabr》**{style="color:yellow"}：第一本解决一次、一元二次方程的著作；  
    **代数创造者**{style="color:yellow"}：代数— algebra — al-jabr。
 
-2. 算术：开发使用**印度-阿拉伯数字**{style="color:yellow"}。  
+2. 算术：开发使用**印度—阿拉伯数字**{style="color:yellow"}。  
    算术— algorism；算法— algorithm。
 
 3. 三角函数：制作精确**正弦、余弦表**{style="color:yellow"}，第一个**正切表**{style="color:yellow"}。
