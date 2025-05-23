@@ -37,20 +37,20 @@ transition: fade
 
 <br>
 
-\|- 约前600-529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|  
 \|  
 \|  
-\|- 12世纪 — \[意\]斐波那契……？  
+\|- 12 世纪 — \[意\]斐波那契……？  
 \|  
 \|  
 \|  
-\|- 17世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
-\|- 18世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
-\|- 19世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
-\|- 20世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
+\|- 17 世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
+\|- 18 世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
+\|- 19 世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
+\|- 20 世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
 
 ---
 layout: quote
@@ -79,20 +79,20 @@ transition: slide-down
 
 <br>
 
-\|- 约前600-529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|  
 \|  
 \|  
-\|- 12世纪 — \[意\]斐波那契……？  
+\|- 12 世纪 — \[意\]斐波那契……？  
 \|  
 \|  
 \|  
-\|- 17世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
-\|- 18世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
-\|- 19世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
-\|- 20世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
+\|- 17 世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
+\|- 18 世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
+\|- 19 世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
+\|- 20 世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
 
 ---
 layout: center
@@ -110,27 +110,27 @@ transition: slide-left
 
 <br>
 
-\|- 约前600-529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|  
 \|  
 \|  
-\|- 12世纪 — \[意\]斐波那契……？  
+\|- 12 世纪 — \[意\]斐波那契……？  
 \|  
 \|  
 \|  
-\|- 17世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
-\|- 18世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
-\|- 19世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
-\|- 20世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
+\|- 17 世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
+\|- 18 世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
+\|- 19 世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
+\|- 20 世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
 
 ---
 layout: center
 transition: fade
 ---
 
-## **伊斯兰黄金时代**{style="color:yellow"}，是伊斯兰教历史上**科学、经济和文化繁荣**{style="color:yellow"}的时期，传统上认定其发生时间约在**8世纪至13世纪**{style="color:yellow"}之间。
+## **伊斯兰黄金时代**{style="color:yellow"}，是伊斯兰教历史上**科学、经济和文化繁荣**{style="color:yellow"}的时期，传统上认定其发生时间约在 **8 世纪至 13 世纪**{style="color:yellow"}之间。
 
 ---
 layout: image
@@ -153,15 +153,15 @@ transition: fade
 
 # 穆罕默德·伊本·穆萨·花拉子密
 
-（约780—约850）阿拉伯语：محمد بن موسى الخوارزمي
+（约 780 —约 850）阿拉伯语：محمد بن موسى الخوارزمي
 
 波斯**数学家、天文学家、地理学家**{style="color:yellow"}，巴格达智慧宫学者。
 
 1. **《Al-Jabr》**{style="color:yellow"}：第一本解决一次、一元二次方程的著作；  
-   **代数创造者**{style="color:yellow"}：代数—algebra — al-jabr。
+   **代数创造者**{style="color:yellow"}：代数— algebra — al-jabr。
 
 2. 算术：开发使用**印度-阿拉伯数字**{style="color:yellow"}。  
-   算术—algorism；算法—algorithm。
+   算术— algorism；算法— algorithm。
 
 3. 三角函数：制作精确**正弦、余弦表**{style="color:yellow"}，第一个**正切表**{style="color:yellow"}。
 
@@ -175,7 +175,7 @@ transition: slide-up
 
 # 穆罕默德·伊本·穆萨·花拉子密
 
-（约780—约850）阿拉伯语：محمد بن موسى الخوارزمي
+（约 780 —约 850）阿拉伯语：محمد بن موسى الخوارزمي
 
 利用“**还原**{style="color:yellow"}”（al-jabr）及“**平衡**{style="color:yellow"}”（al-muqābala），将方程化简为以下6种**标准格式**{style="color:yellow"}：
 
@@ -199,7 +199,7 @@ transition: fade
 
 # 伊本·海什木
 
-（965-1040）阿拉伯语：ابن الهيثم
+（965 — 1040）阿拉伯语：ابن الهيثم
 
 出生于今伊拉克，**数学家、天文学家、物理学家**{style="color:yellow"}。
 
@@ -232,7 +232,7 @@ transition: fade
 
 # 奥马尔·海亚姆
 
-（1048-1131）波斯语：عمر خیّام
+（1048 — 1131）波斯语：عمر خیّام
 
 波斯**诗人、天文学家、数学家**{style="color:yellow"}。
 
@@ -253,13 +253,13 @@ transition: fade
 
 # 奥马尔·海亚姆
 
-（1048-1131）波斯语：عمر خیّام
+（1048 — 1131）波斯语：عمر خیّام
 
 ![朗伯四角形](/lambert_quadrilateral.webp){style="float: right; margin-left: 10%; width: 30%; border-radius: 0px;"}
 
 1. **欧几里得第五公设**{style="color:yellow"}：如果一条线段与两条直线相交，在某一侧的内角和小于两直角和，那么这两条直线在不断延伸后，会在内角和小于两直角和的一侧相交。
 
-2. **朗伯四角形/海亚姆-朗伯四角形**{style="color:yellow"}：$\angle A$、$\angle B$、$\angle C$被假定为直角，而那个没有假定为直角的$\angle D$称为朗伯角，并记为$L\angle a$，即$\angle D = L\angle a$。
+2. **朗伯四角形/海亚姆-朗伯四角形**{style="color:yellow"}：$\angle A$、$\angle B$、$\angle C$ 被假定为直角，而那个没有假定为直角的 $\angle D$ 称为朗伯角，并记为 $L\angle a$，即 $\angle D = L\angle a$。
 
 3. 直角：**欧几里得几何**{style="color:yellow"}；锐角：**双曲几何**{style="color:yellow"}；钝角：**黎曼几何**{style="color:yellow"}。
 
@@ -271,7 +271,7 @@ transition: slide-up
 
 # 奥马尔·海亚姆
 
-（1048-1131）波斯语：عمر خیّام
+（1048 — 1131）波斯语：عمر خیّام
 
 The Moving Finger writes; and having writ,  
 指动字成，字成指动：
@@ -303,42 +303,42 @@ transition: slide-up
   <div>
     <img src="/hayyan.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">哈扬</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">721-815</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">721 - 815</p>
   </div>
   <div>
     <img src="/ziryab.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">齐里亚布</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约785-857</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约785 - 857</p>
   </div>
   <div>
     <img src="/al-ruhawi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">鲁哈维</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约9世纪</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 9 世纪</p>
   </div>
   <div>
     <img src="/al-farghani.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">费尔甘尼</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约800-870</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 800 - 870</p>
   </div>
   <div>
     <img src="/firnas.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">菲尔纳斯</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约809-887</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 809 - 887</p>
   </div>
   <div>
     <img src="/al-razi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">拉齐</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约854-925</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 854 - 925</p>
   </div>
   <div>
     <img src="/al-farabi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">法拉比</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">872-950</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">872 - 950</p>
   </div>
   <div>
     <img src="/al-masudi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">马苏迪</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约896-956</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 896 - 956</p>
   </div>
   <div>
     <img src="/zadith.webp" style="width: 100%; height: auto; border-radius: 4px;">
@@ -348,62 +348,62 @@ transition: slide-up
   <div>
     <img src="/mansur.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">曼苏尔</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">960-1036</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">960 - 1036</p>
   </div>
   <div>
     <img src="/al-biruni.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">比鲁尼</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">973-1050</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">973 - 1050</p>
   </div>
   <div>
     <img src="/ibn-sina.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊本·西那</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">980-1037</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">980 - 1037</p>
   </div>
   <div>
     <img src="/ibn-hazm.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊本·哈兹姆</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">994-1064</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">994 - 1064</p>
   </div>
   <div>
     <img src="/juzjani.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">尤兹贾尼</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">?-1070</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">? - 1070</p>
   </div>
   <div>
     <img src="/al-tighnari.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">提纳里</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1075-1118</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1075 - 1118</p>
   </div>
   <div>
     <img src="/al-idrisi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊德里西</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1100-1165</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1100 - 1165</p>
   </div>
   <div>
     <img src="/al-jazari.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">加扎里</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1136-1206</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1136 - 1206</p>
   </div>
   <div>
     <img src="/nizami.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">尼扎米</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1141-1209</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1141 - 1209</p>
   </div>
   <div>
     <img src="/al-hamawi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">哈迈维</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1179-1229</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1179 - 1229</p>
   </div>
   <div>
     <img src="/ibn-al-nafis.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊本·纳菲斯</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1213-1288</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1213 - 1288</p>
   </div>
   <div>
     <img src="/ibn-khaldun.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊本·赫勒敦</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1332-1406</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1332 - 1406</p>
   </div>
 </div>
 
@@ -448,20 +448,20 @@ transition: fade
 
 <br>
 
-\|- 约前600-529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|  
 \|  
 \|  
-\|- 12世纪 — \[意\]斐波那契……？  
+\|- 12 世纪 — \[意\]斐波那契……？  
 \|  
 \|  
 \|  
-\|- 17世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
-\|- 18世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
-\|- 19世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
-\|- 20世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
+\|- 17 世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
+\|- 18 世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
+\|- 19 世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
+\|- 20 世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
 
 ---
 layout: default
@@ -472,20 +472,20 @@ transition: slide-left
 
 <br>
 
-\|- 约前600-529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
-\|- 9世纪 — **花拉子密**{style="color:yellow"}、**肯迪**{style="color:yellow"}  
-\|- 10世纪 — **伊本·海什木**{style="color:yellow"}、**卡拉吉**{style="color:yellow"}  
-\|- 11世纪 — **奥马尔·海亚姆**{style="color:yellow"}、**伊本·穆哈德·贾亚尼**{style="color:yellow"}  
-\|- 12世纪 — ~~\[意\]斐波那契~~{style="color: #999;"} **沙拉夫·丁·图西**{style="color:yellow"}  
-\|- 13世纪 — **奈绥尔丁·图西**{style="color:yellow"}  
-\|- 15世纪 — **卡西**{style="color:yellow"}、**卡拉萨迪**{style="color:yellow"}  
+\|- 9 世纪 — **花拉子密**{style="color:yellow"}、**肯迪**{style="color:yellow"}  
+\|- 10 世纪 — **伊本·海什木**{style="color:yellow"}、**卡拉吉**{style="color:yellow"}  
+\|- 11 世纪 — **奥马尔·海亚姆**{style="color:yellow"}、**伊本·穆哈德·贾亚尼**{style="color:yellow"}  
+\|- 12 世纪 — ~~\[意\]斐波那契~~{style="color: #999;"} **沙拉夫·丁·图西**{style="color:yellow"}  
+\|- 13 世纪 — **奈绥尔丁·图西**{style="color:yellow"}  
+\|- 15 世纪 — **卡西**{style="color:yellow"}、**卡拉萨迪**{style="color:yellow"}  
 \|  
-\|- 17世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
-\|- 18世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
-\|- 19世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
-\|- 20世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
+\|- 17 世纪 — \[法\]笛卡尔 \[英\]牛顿 \[英\]莱布尼茨 \[法\]费马 \[法\]帕斯卡  
+\|- 18 世纪 — \[瑞士\]欧拉 \[意\]拉格朗日 \[法\]拉普拉斯  
+\|- 19 世纪 — \[德\]高斯 \[法\]柯西 \[德\]黎曼 \[德\]魏尔斯特拉斯  
+\|- 20 世纪 — \[法\]庞加莱 \[美\]哥德尔 ……
 
 ---
 layout: quote
@@ -516,15 +516,15 @@ transition: slide-up
 
 \|  
 \|  
-\|- 9世纪 — 花拉子密、肯迪  
-\|- 10世纪 — 伊本·海什木、卡拉吉  
-\|- 11世纪 — 奥马尔·海亚姆、伊本·穆哈德·贾亚尼  
-\|- 12世纪 — 沙拉夫·丁·图西  
-\|- 13世纪 — 奈绥尔丁·图西  
-\|- **14世纪 — ？**{style="color:yellow"}  
-\|- 15世纪 — 卡西、卡拉萨迪  
-\|- **16世纪 — ？**{style="color:yellow"}  
-\|- **17世纪 — ？**{style="color:yellow"}  
+\|- 9 世纪 — 花拉子密、肯迪  
+\|- 10 世纪 — 伊本·海什木、卡拉吉  
+\|- 11 世纪 — 奥马尔·海亚姆、伊本·穆哈德·贾亚尼  
+\|- 12 世纪 — 沙拉夫·丁·图西  
+\|- 13 世纪 — 奈绥尔丁·图西  
+\|- **14 世纪 — ？**{style="color:yellow"}  
+\|- 15 世纪 — 卡西、卡拉萨迪  
+\|- **16 世纪 — ？**{style="color:yellow"}  
+\|- **17 世纪 — ？**{style="color:yellow"}  
 \|- **……？**{style="color:yellow"}  
 \|  
 \|  
