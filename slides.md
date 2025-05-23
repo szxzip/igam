@@ -37,7 +37,7 @@ transition: fade
 
 <br>
 
-\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 — 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|  
@@ -79,7 +79,7 @@ transition: slide-down
 
 <br>
 
-\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 — 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|  
@@ -110,7 +110,7 @@ transition: slide-left
 
 <br>
 
-\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 — 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|  
@@ -153,7 +153,7 @@ transition: fade
 
 # 穆罕默德·伊本·穆萨·花拉子密
 
-（约 780 —约 850）阿拉伯语：محمد بن موسى الخوارزمي
+（约 780 — 约 850）阿拉伯语：محمد بن موسى الخوارزمي
 
 波斯**数学家、天文学家、地理学家**{style="color:yellow"}，巴格达智慧宫学者。
 
@@ -175,9 +175,9 @@ transition: slide-up
 
 # 穆罕默德·伊本·穆萨·花拉子密
 
-（约 780 —约 850）阿拉伯语：محمد بن موسى الخوارزمي
+（约 780 — 约 850）阿拉伯语：محمد بن موسى الخوارزمي
 
-利用“**还原**{style="color:yellow"}”（al-jabr）及“**平衡**{style="color:yellow"}”（al-muqābala），将方程化简为以下6种**标准格式**{style="color:yellow"}：
+利用“**还原**{style="color:yellow"}”（al-jabr）及“**平衡**{style="color:yellow"}”（al-muqābala），将方程化简为以下 6 种**标准格式**{style="color:yellow"}：
 
 - 平方等于方根（$ax^2 = bx$）
 - 平方等于数值（$ax^2 = c$）
@@ -303,12 +303,12 @@ transition: slide-up
   <div>
     <img src="/hayyan.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">哈扬</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">721 - 815</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">721 — 815</p>
   </div>
   <div>
     <img src="/ziryab.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">齐里亚布</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约785 - 857</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 785 — 857</p>
   </div>
   <div>
     <img src="/al-ruhawi.webp" style="width: 100%; height: auto; border-radius: 4px;">
@@ -318,92 +318,92 @@ transition: slide-up
   <div>
     <img src="/al-farghani.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">费尔甘尼</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 800 - 870</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 800 — 870</p>
   </div>
   <div>
     <img src="/firnas.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">菲尔纳斯</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 809 - 887</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 809 — 887</p>
   </div>
   <div>
     <img src="/al-razi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">拉齐</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 854 - 925</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 854 — 925</p>
   </div>
   <div>
     <img src="/al-farabi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">法拉比</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">872 - 950</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">872 — 950</p>
   </div>
   <div>
     <img src="/al-masudi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">马苏迪</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 896 - 956</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 896 — 956</p>
   </div>
   <div>
     <img src="/zadith.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">扎蒂斯</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约900-960</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">约 900 — 960</p>
   </div>
   <div>
     <img src="/mansur.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">曼苏尔</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">960 - 1036</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">960 — 1036</p>
   </div>
   <div>
     <img src="/al-biruni.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">比鲁尼</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">973 - 1050</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">973 — 1050</p>
   </div>
   <div>
     <img src="/ibn-sina.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊本·西那</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">980 - 1037</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">980 — 1037</p>
   </div>
   <div>
     <img src="/ibn-hazm.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊本·哈兹姆</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">994 - 1064</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">994 — 1064</p>
   </div>
   <div>
     <img src="/juzjani.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">尤兹贾尼</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">? - 1070</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">? — 1070</p>
   </div>
   <div>
     <img src="/al-tighnari.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">提纳里</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1075 - 1118</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1075 — 1118</p>
   </div>
   <div>
     <img src="/al-idrisi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊德里西</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1100 - 1165</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1100 — 1165</p>
   </div>
   <div>
     <img src="/al-jazari.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">加扎里</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1136 - 1206</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1136 — 1206</p>
   </div>
   <div>
     <img src="/nizami.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">尼扎米</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1141 - 1209</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1141 — 1209</p>
   </div>
   <div>
     <img src="/al-hamawi.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">哈迈维</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1179 - 1229</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1179 — 1229</p>
   </div>
   <div>
     <img src="/ibn-al-nafis.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊本·纳菲斯</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1213 - 1288</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1213 — 1288</p>
   </div>
   <div>
     <img src="/ibn-khaldun.webp" style="width: 100%; height: auto; border-radius: 4px;">
     <p style="text-align: center; margin: 2px 0 0; font-weight: bold;">伊本·赫勒敦</p>
-    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1332 - 1406</p>
+    <p style="text-align: center; margin: 0; font-size: 0.6em; line-height: 1.1em; color: #999;">1332 — 1406</p>
   </div>
 </div>
 
@@ -448,7 +448,7 @@ transition: fade
 
 <br>
 
-\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 — 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|  
@@ -472,7 +472,7 @@ transition: slide-left
 
 <br>
 
-\|- 约前 600 - 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
+\|- 约前 600 — 529 —\[古希腊\]毕达哥拉斯 柏拉图 阿波罗尼斯 阿基米德 丢番图  
 \|  
 \|  
 \|- 9 世纪 — **花拉子密**{style="color:yellow"}、**肯迪**{style="color:yellow"}  
@@ -543,5 +543,5 @@ layout: end
 
 # 展示完毕，谢谢大家
 
-■■■、■■■、■■■ — 伊斯兰黄金时代数学和科学成就
+■■■、■■■、■■■ —— 伊斯兰黄金时代数学和科学成就
 
